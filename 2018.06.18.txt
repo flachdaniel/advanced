@@ -1,0 +1,22 @@
+2018.06.18 - 2018.07.01
+
+
+[2,5] - Read: Cracking the Coding Interview (whole)
+[5] - Morgan Sanley Tech Interview (6 hours)
+[1,5] - Hackerrank: 
+		[	Strings: Making Anagrams 	- Easy 1
+			Hash Tables: Ransom Note 	- Easy 1
+			Diagonal Difference	   	- Easy 1
+			Arrays: Left Rotation	   	- Easy 1
+			Stacks: Balanced Brackets  	- Medium 2
+			Time Complexity 	   	- Medium 2
+			Heaps: Find The Running Median  - Hard 9
+		]
+
+
+
+~~~~~~~~~~~~~~~~~~~~~
+[9] - Summary
+~~~~~~~~~~~~~~~~~~~~~
+
+---------------------------------------------------------------------------------------------

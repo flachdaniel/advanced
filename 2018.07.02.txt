@@ -3,9 +3,8 @@
 
 
 
-[2] - Morgan Stanley Tech Interview (3 hours)
+[3] - Morgan Stanley Tech Interview
 [2] - Angular 6 Learning, Doing tutorials like cursetro.com's (routing, services, classes, dependency injection, animating, API database)
-[1] - Learning about uknown words in companies' requirements.
 
 
 ~~~~~~~~~~~~~~~~~~~~~

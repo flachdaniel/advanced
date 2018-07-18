@@ -2,7 +2,7 @@
 
 
 [2,5] - Read: Cracking the Coding Interview (whole)
-[5] - Morgan Sanley Tech Interview (6 hours)
+[5] - Morgan Sanley Tech Interview
 [1,5] - Hackerrank: 
 		[	Strings: Making Anagrams 	- Easy 1
 			Hash Tables: Ransom Note 	- Easy 1
